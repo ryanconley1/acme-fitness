@@ -22,7 +22,7 @@ This application is composed of several services:
 * 1 NodeJS and static HTML Application
   * A frontend shopping service
 
-The sample can be deployed to Azure Spring Apps Enterprise or Tanzu Application Platform. 
+The sample application can be deployed on Tanzu Platform for Cloud Foundry, any CNCF comformant Kubernetes distribution with or without Tanzu Platform for Kubernetes, or run locally on one's workstation.
 
 ## Repo Organization
 
